@@ -2,16 +2,21 @@
 GIT Homework 1
 
 Создать внешний репозиторий c названием XML.
+
 Шаг #1
 ![Image alt](https://github.com/EugeneVovk/XML/raw/main/img-XML/1.png)
+
 Шаг #2
 ![Image alt](https://github.com/EugeneVovk/XML/raw/main/img-XML/2.png)
 
 Клонировать репозиторий XML на локальный компьютер.
+
 Шаг #1
 ![Image alt](https://github.com/EugeneVovk/XML/raw/main/img-XML/3.png)
+
 Шаг #2
 ![Image alt](https://github.com/EugeneVovk/XML/raw/main/img-XML/4.png)
+
 Шаг #3
 ![Image alt](https://github.com/EugeneVovk/XML/raw/main/img-XML/5.png)
 
