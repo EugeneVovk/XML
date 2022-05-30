@@ -31,16 +31,14 @@ GIT Homework 1
 
 ![Image alt](https://github.com/EugeneVovk/XML/raw/main/img/6.png)
 
-Шаг #2
+-- Сделать Commit changes (сохранить) изменения
 
 ![Image alt](https://github.com/EugeneVovk/XML/raw/main/img/7.png)
 
--- Сделать Commit changes (сохранить) изменения
-
-![Image alt](https://github.com/EugeneVovk/XML/raw/main/img/8.png)
-
 -- Модифицировать файл bug_report.xml, добавить баг репорт в формате XML
 Сделать Commit changes (сохранить) изменения
+
+![Image alt](https://github.com/EugeneVovk/XML/raw/main/img/8.png)
 
 ![Image alt](https://github.com/EugeneVovk/XML/raw/main/img/9.png)
 
