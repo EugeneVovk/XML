@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- скиллы которые будут изучены на курсе https://ksendzov.com/ -->
+<skills>
+	<skill id="1" type="basic testing theory">true</skill>
+	<skill id="2" type="HTTP">
+		<knowledge>methods</knowledge>
+		<knowledge>requests</knowledge>
+		<knowledge>responses</knowledge>
+		<knowledge>status codes</knowledge>
+	</skill>
+	<skill type="basics">
+                <knowledge>JSON</knowledge>
+                <knowledge>XML</knowledge>
+	</skill>
+	<skill id="3" type="API testing">
+		<tool>Postman</tool>
+	</skill>
+	<skill id="4" type="logs">
+		<knowledge>capturing from an external server</knowledge>
+		<knowledge>reading from an external server</knowledge>
+	</skill>
+	<skill id="5" class="http web traffic" type="sniffing">
+		<tool>Charles</tool>
+		<tool>Fiddler</tool>
+	</skill> 
+	<skill id="6" type="DevTools">
+		<browser>Google Chrome</browser>
+		<browser>FireFox</browser>
+	</skill>
+	<skill id="7" type="VPN">
+		<knowledge>how it works</knowledge>
+		<knowledge>why we need it</knowledge>
+		<knowledge>how to use</knowledge>
+		<knowledge>tool options</knowledge>
+	</skill>
+	<skill id="8" type="mobile testing" class="guidlines">
+		<os>iOS</os>
+		<os>Android</os>
+	</skill>
+	<skill id="9" type="building apps">
+		<os>iOS</os>
+		<tool>XCode</tool>
+	</skill>
+	<skill id="10" type="building apps">
+		<os>Android</os>
+		<tool>Android Studio</tool>
+	</skill>
+<!-- самозакрывающийся тег -->
+	<skill id="11" type="Android device management" />
+	<skill id="12" type="setting up proxies and VPN">
+		<os>iOS</os>
+		<os>Android</os>
+	</skill>
+	<skill id="13" class="mobile traffic" type="sniffing">
+		<tool>Charles</tool>
+                <tool>Fiddler</tool>
+        </skill>
+	<skill id="14" type="Linux command line">
+		<action>copy file on servers</action>
+		<action>create file on servers</action>
+		<action>view file on servers</action>
+		<action>move file on servers</action>
+	</skill>
+	<skill id="15" type="basics">
+		<knowledge>basic bash scripting</knowledge>
+                <knowledge>automation of routine tasks on the server</knowledge>
+	</skill>
+	<skill id="16">remote server access</skill>
+	<skill id="17" type="SQL basics">
+		<keyword>Create</keyword>
+		<keyword>Delete</keyword>
+		<keyword>Drop</keyword>
+		<keyword>Insert Into</keyword>
+		<keyword>dSelect</keyword>
+		<keyword>From</keyword>
+		<keyword>Where</keyword>
+		<keyword>Join</keyword>
+	</skill>
+	<skill id="18" type="Postgres database">
+		<action>installation</action>
+		<action>setup</action>
+		<action>use</action>
+	</skill>
+	<skill id="18" type="non-relational Redis database">
+                <action>installation</action>
+                <action>setup</action>
+                <action>use</action>
+        </skill>
+	<skill id="19" type="load testing">						
+		<tool>Jmeter</tool>
+        </skill>
+	<skill id="20" type="development methodology">
+		<knowledge>Scrum</knowledge>
