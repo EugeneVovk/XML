@@ -1,1 +1,22 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Bug template -->
+<Bug_id>номер</Bug_id>
+<Tit1e>заголовок</Tit1e>
+<Severity>
+        <type>Blocker</type>
+        <type>Critical</type>
+        <type>Major</type>
+        <type>Minor</type>
+        <type>Trivial</type>
+</Severity>
+<Priority>
+        <type>High</type>
+        <type>Medium</type>
+        <type>Low</type>
+</Priority>
+<Environment>окужение, где был обнаружен дефект(баг)</Environment>
+<Precondition>предусловие</Precondition>
+<STR>шаги воспроизведения дефекта(бага)</STR>	
+<AR>фактический результат</AR>
+<ER>ожидаемый результат</ER>	
+<Attachments>скриншот, видео</Attachments>
